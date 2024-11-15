@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ✌️ Hi, I'm Amir Barghi<br>👾 An IoT & Network Security from Iran<br>💻 Im currently learning Electornic & C & Python<br>🍃 I am trying to contribute to a better life with my own projects.<br>📧 How to reach me awmircode@gmail.com
-<br> ![Header](./5472-party-all-the-time-pfpsgg.gif)
+<br> ![Header](./header.gif)
 
 
 ## 🌐 Socials:
