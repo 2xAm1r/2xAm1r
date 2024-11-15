@@ -10,11 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=2xAm1r&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2xAm1r&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=2xAm1r&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2xAm1r&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wfsqclhdntwo2r3vsdies4uxya&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 [![](https://visitcount.itsvg.in/api?id=2xAm1r&icon=0&color=12)](https://visitcount.itsvg.in)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wfsqclhdntwo2r3vsdies4uxya&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
